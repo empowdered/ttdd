@@ -154,6 +154,7 @@ public class PlayerGUI extends JFrame {
 	        setSize(800, 600);
 	        setLocationRelativeTo(null); // Centra la ventana en la pantalla
 	        
+	        
 	        /*
 	        JPanel panel = new JPanel() {
 	            @Override
